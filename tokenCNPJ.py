@@ -1,1 +1,1 @@
-API_TOKEN = escrever o token aqui
+API_TOKEN = ''
